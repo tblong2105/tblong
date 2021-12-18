@@ -1079,7 +1079,7 @@ a.post__cat{
 .post--horizontal-list .post__thumb{
     margin-right: 40px;
     width: calc(50% - 55px);
-    height: 450px;
+    height: 290px;
 }
 .post--horizontal-list .post__thumb:before{
     content:"";
@@ -1372,7 +1372,7 @@ a.post__cat{
         margin-bottom: 0px;
     }
     .atbs-main-col{
-        width: 900px;
+        width: 100%;
         padding-right:35px;
     }
     .atbs-sub-col{
